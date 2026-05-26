@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservetch",
+        "uuid": 5106528,
+        "checksum": "57cfgb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
